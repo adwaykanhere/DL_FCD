@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uJLONcGv5o2HQ24yVefU0GFJIFeijSCy?usp=sharing)
 
-# Automatic segmentation of Focal Cortical Dysplasia ( FCD ) using deep convolutional neural network.
+# Automatic segmentation of Focal Cortical Dysplasia(FCD) using deep convolutional neural network.
 
 Focal Cortical Dysplasia (FCD) is a common congenital malformation of brain development. 
 
